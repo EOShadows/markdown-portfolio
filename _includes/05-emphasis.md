@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I know the following languages: **C#**, **C++**, **Python**, and ... heh, _those are the main ones._
+- I use __Visual Studio__, __Visual Studio Code__, __Nano__, __UNIX/BASH__, and __Unity__.
